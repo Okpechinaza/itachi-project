@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+     margin: 0;
+     white-space: nowrap;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    background-color: blue;
+    padding: 20px;
+}
+ header  h1{
+ background-color: white;
+ text-align: center;
+ color: blue;
+ display: inline-block;
+ padding: 10px;
+ }
+ .itachi-heading{
+  text-align: center;
+ }
+
+ body{
+  background-color:lightgray;
+ }
+ 
+  main img{
+    width: 100%;
+  }
+ .itachi-text{
+    position: absolute;
+    top: 500px;
+    left: -5px;
+    font-size: 20px;
+    border: 4px blue solid;
+    color: blue;
+    padding: 20px;
+    background-color:gainsboro;
+
+ }
+ main .body-text{
+  background-color:lightgrey;
+ }
+ main h2{
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+ }
+
+ .text{
+  background-color: white;
+  margin-top: 30px;
+  margin-left: 400px;
+  margin-right: 300px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  padding: 50px;
+  line-height: 30px;
+ }
+  ul{
+    margin-left: 20px;
+  }
+ .inner-ul{
+  margin-left: 20px;
+ }
+
+ footer{
+  text-align: center;
+  background-color: black;
+  padding: 20px;
+ }
+
+ footer a{
+  text-decoration: none;
+  color: white;
+  border: 2px white solid;
+padding: 5px;
+ }
+
+ a:hover{
+  color: blue;
+  border:2px blue solid;
+ }
